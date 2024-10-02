@@ -13,6 +13,8 @@ list.updateStatus(1,"Завершена")
 list.addTask("Решить задачу по React")
 list.addTask("Решить задачу по Java")
 list.removeTask(3)
+list.addTask("Фикс задачи по Питону")
+list.updateStatus(4,"Завершена")
 
 list.viewTasks()
 
